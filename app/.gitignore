@@ -1,0 +1,13 @@
+# Ignorar archivos de entorno
+.env
+
+# python
+__pycache__
+*.pyc
+
+# venv
+venv
+.venv
+
+# .DS_Store
+.DS_Store

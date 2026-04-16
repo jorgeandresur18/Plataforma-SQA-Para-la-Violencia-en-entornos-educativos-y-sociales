@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+odfpy
+pyreadstat
+fpdf2
+kaleido
+scikit-learn
+folium
+streamlit-folium
+requests
