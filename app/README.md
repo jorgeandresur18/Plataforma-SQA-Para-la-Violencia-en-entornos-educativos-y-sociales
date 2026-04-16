@@ -1,6 +1,7 @@
-# Plataforma SQA - Análisis Causal Neutrosófico
+# DISEÑO DE UNA PLATAFORMA DIGITAL CONTRA LA VIOLENCIA BASADA EN EL ANÁLISIS CUALITATIVO COMPARATIVO NEUTROSÓFICO (SQA) PARA IDENTIFICAR FACTORES CAUSALES EN CONTEXTOS SOCIALES Y EDUCATIVOS
 
-> **Proyecto de Tesis**: Plataforma Digital de Análisis Causal Neutrosófico para Fenómenos Sociales
+> **Proyecto de Tesis (2026)**  
+> **Autores:** Jorge Urgilés y Leidy Bagua (Universidad de Guayaquil)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
@@ -161,7 +162,7 @@ kaleido
 
 ## 📚 Referencias
 
-- Tesis: "Análisis Causal Neutrosófico para Fenómenos Sociales" - Urgiles & Bagua
+- Tesis: "DISEÑO DE UNA PLATAFORMA DIGITAL CONTRA LA VIOLENCIA BASADA EN EL ANÁLISIS CUALITATIVO COMPARATIVO NEUTROSÓFICO (SQA) PARA IDENTIFICAR FACTORES CAUSALES EN CONTEXTOS SOCIALES Y EDUCATIVOS" - Jorge Urgilés & Leidy Bagua, Universidad de Guayaquil (2026)
 - Smarandache, F. (1999). A Unifying Field in Logics: Neutrosophic Logic
 
 ## 📝 Licencia

@@ -1,6 +1,9 @@
-# Plataforma SQA - Análisis Causal Neutrosófico
+# DISEÑO DE UNA PLATAFORMA DIGITAL CONTRA LA VIOLENCIA BASADA EN EL ANÁLISIS CUALITATIVO COMPARATIVO NEUTROSÓFICO (SQA) PARA IDENTIFICAR FACTORES CAUSALES EN CONTEXTOS SOCIALES Y EDUCATIVOS
 
-Bienvenido al repositorio de la **Plataforma Digital de Análisis Causal Neutrosófico para Fenómenos Sociales**.
+**Autores:** Jorge Urgilés y Leidy Bagua  
+**Institución:** Universidad de Guayaquil (2026)
+
+Bienvenido al repositorio oficial del software elaborado para este proyecto de tesis.
 
 ## 🚀 Inicio Rápido en Windows (Recomendado)
 
